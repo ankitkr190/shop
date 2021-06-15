@@ -1,0 +1,45 @@
+.header {
+  color: black;
+  text-align: center;
+  font-size: 35px;
+  text-shadow: 3px 3px rgb(209, 208, 208);
+}
+.image {
+  height: 500px;
+  width: 500px;
+}
+
+.mobile {
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+.btn {
+  background-color: black;
+  color: white;
+  padding: 15px;
+  border: none;
+  box-shadow: 5px 5px #eeeeee;
+  border-radius: 25px;
+}
+.btn:hover {
+  background-color: white;
+  color: #000000;
+}
+
+.shop-btn {
+  margin-top: 10px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+
+.discription {
+  border: none;
+  background-color: #eeeeee;
+  margin-left: 50px;
+  width: 250px;
+  text-align: center;
+}
